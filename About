@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!--
+			JavaScript
+			Personal Passion
+			Darby Tompkins
+			12/4/22
+
+			Filename: About.htm
+		-->	
+	<meta charset="utf-8" />
+   	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  	<meta name="viewport" content="width=page-width, initial-scale=1.0">
+	<title>Russian Blue</title>
+	<link rel="stylesheet" href="Chachi.css" />
+   	<!--[if lt IE 9]>
+      <link rel="stylesheet" href="Chachi.css" />
+   	<![endif]-->
+	<style type = "text/css">
+		/* created by Darby Tompkins
+		All files for this web site links to this style sheet */
+		
+		
+		ul.facts{
+			line-height: 1.4em;
+			list-style-type: none;
+			padding: 0;
+			margin-left: 1em;
+		}
+		ul.facts li{
+		background-image: url(image/grey.jpg) black 0.3em no-repeat:
+		padding-left: 60px;
+		line-height: 2.5em;
+	}
+	.base{
+	width: 100%;
+	 
+	margin: 0;
+	overflow: hidden;
+	display: block;
+	float: none;
+}
+ 
+	.base h4{
+	font-size: 26px;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: normal;
+        margin-top: 0px;
+        box-shadow: 0px 2px #bababa;
+        background: white;
+        font-size: 34px;
+	color: navy;
+}
+	.block{
+	width: 135px;
+	padding: 5px 20px;
+ 
+	margin-left: 20px;
+	display: inline-block;
+	float: left;
+}
+ 
+.title{
+	font-size: 20px;
+	text-align: left;
+	font-family: sans-serif;
+	font-weight: normal;
+	line-height: 0.5;
+	letter-spacing: 0.5px;
+	word-spacing: 2.7px;
+	color: #1073d0;
+}
+
+input[type=text] {
+	width: 140px;
+	margin: auto;
+	outline: none;
+        min-height: 50px;
+	border: 2px solid #1073d0;
+	padding: 12px;
+	background-color: #f7f7f7;
+        border-radius: 2px;
+        color: #1073d0;
+        font-size: 17px;
+}
+
+input[type=text]:focus{
+	background-color: #ffffff;
+	border: 2px solid orange;
+	outline: none;
+}
+	</style>
+</head>
+
+	<header>
+	<nav>
+		<ul>
+		  <li><a href="RussianBlue.htm">Home</a></li>
+		  <li><a href="MeetMyCat.htm">Meet Me!</a></li>
+		  <li><a href="https://www.chewy.com/g/cat-russian-blue_ga1/">Adopt</a></li>
+		</ul>
+	</nav>
+	<header>
+<body>	
+	<h1> About Russian Blue</h1>
+		<img src= "images/chachi7.jpg" alt="Chachi logo"/>
+	<h2>History</h2>
+	<p>
+		The Russian Blue’s exact origin is lost to history, but it’s said to have been a favorite of the Russian Czars and Britain’s Queen Victoria. Historians believe they arrived in Europe on ships from Arkhangelsk, Russia. 
+		</p>
+		<p>
+		The Russian Blue is a natural breed originating; from the Archangel Isles in northern Russia, where the long winters developed a cat with a dense, plush coat. That is why they are sometimes called Archangel Blues. It is also believed that sailors took them from the Archangel Isles to Great Britain and Northern Europe in the 1860s.
+	</p>
+	<img src= "images/ChaCha.jpg" alt="Chachi logo"/ width>
+	<h2>Age</h2>
+	
+	<p>
+		Russian Blue has a very long life compared to most pets. Its average lifespan is 10-15 years, but some have been known to live to age 25. The Russian Blue is a medium-sized cat. The average size of male Blues is 10-12 pounds. Females are 7-10 pounds.
+	</p>
+		<table style="width:100%">
+		 <td><strong>Age</strong></td>
+		 <td><strong>Male</strong></td>
+		 <td><strong>Female</strong></td>
+		<tr><td>3 Months</td><td>1.2 – 1.9 kg (2.6 – 4.2 lbs)</td><td>1.2 – 1.8 kg (2.6 – 4.0 lbs)</td></tr>
+		<tr><td>4 Months</td><td>1.7 – 2.4 kg (3.7 – 5.3 lbs)</td><td>1.4 – 2.2 kg (3.1 – 4.7 lbs)</td></tr>
+		<tr><td>5 Months</td><td>2.1 – 2.9 kg (4.6 – 6.4 lbs)</td><td>1.7 – 2.5 kg (3.7 – 5.5 lbs)</td></tr>
+		<tr><td>6 Months</td><td>2.4 – 3.5 kg (5.3 – 7.4 lbs)</td><td>2.0 – 2.8 kg (4.4 – 6.2 lbs)</td></tr>
+		<tr><td>7 Months</td><td>2.7 – 4.0 kg (6.0 – 8.8 lbs)</td><td>2.2 – 3.1 kg (4.7 – 6.8 lbs)</td></tr>
+		<tr><td>8 Months</td><td>3.0 – 4.5 kg (6.6 – 9.9 lbs)</td><td>2.4 – 3.4 kg (5.3 – 7.5 lbs)</td></tr>
+		<tr><td>9 Months</td><td>3.2 – 5.0 kg (7.0 – 11.0 lbs)</td><td>2.6 – 3.7 kg (5.7 – 8.2 lbs)</td></tr>
+		<tr><td>10 Months</td><td>3.4 – 5.5 kg (7.5 – 12.1 lbs)</td><td>2.8 – 4.2 kg (6.2 – 9.3 lbs)</td></tr>
+		<tr><td>11 Months</td><td>3.6 – 6.0 kg (7.9 – 13.2 lbs)</td><td>3.0 – 4.5 kg (6.6 – 9.9 lbs)</td></tr>
+		<tr><td>1 Year (12 months)</td><td>3.8 – 6.5 kg (8.4 – 14.3 lbs)</td><td>3.1 – 4.8 kg (6.8 – 10.6 lbs)</td></tr>
+		<tr><td>3 Years (36 months)</td><td>4.1 – 6.8 kg (9.0 – 15.0 lbs)</td><td>3.2 – 5.0 kg (7.0 – 11.0 lbs)</td></tr>
+		</table>
+		
+		<article>
+         <h4>Age Calculator</h4>
+         <h4><p>Find out what your cats age is in human years!</p><h4>
+         
+
+
+         <form>
+        <fieldset id="cat age it human age">
+          <label for="ageinput">
+            Age
+            <input type="age" id="ageinput" name="name" placeholder="Your Cats Age" />
+          </label>
+         <imput type="function calculate(catage)"placeholder="Your Cats Age" /> 
+
+        </fieldset>
+        <fieldset id="submitbutton">
+         <input type="button" name="submit" value="Submit" onclick="age()" />
+         <span id="Entered a number between 1-25!"></span>
+        </fieldset>
+     	</form>
+      </article>
+      <aside>
+	
+    
+
+		<h2>Health</h2>
+		<p>
+		There is a slight increase in the risk of urinary tract issues and bladder stones in Russian Blues. The biggest concern is that they are prone to obesity. 
+		</p>
+		<p>
+		They have large appetites, so you need to watch their weight. If your cat gains too much weight, it will be susceptible to the health issues common with obesity. These can include hypertension, diabetes, heart problems, arthritis, respiratory issues, kidney stones, and kidney failure.
+	</p>
+	<img src= "images/ChaChi4.jpg" alt="Chachi logo"/ width= "409" height= "660">
+	<h2>Care</h2>
+	
+	<p>
+		If you maintain a good hygiene routine, your Russian blue will require minimal grooming and healthcare. There are several necessary items for keeping a cat comfortable after adoption. Such as investing in a cat-safe toothbrush and toothpaste to keep their teeth clean, also a medium-toothed comb to keep their double coat smooth and luxurious. 
+		</p>
+		<p>
+		An important piece of Russian blue cat breed information is that these cats love mealtime, so make sure they don't overeat. They probably ask for food multiple times a day. But remains firm and sticks to regularly scheduled feedings, using measured amounts of cat food, and avoiding too many cat treats.
+	</P>
+	<h2>Fun Facts!</h2>
+	<ul>
+	<li>Russian Blue cats have a slightly upturned mouth, giving them subtle smile similar to Mona Lisa’s famous smile. </li>
+	<li> According to folklore, Russian Blues were kept in the chambers of newborns to chase away evil spirits. </li>
+	<li> Fans of the famous Tom and Jerry cartoon speculate that Tom, with his bright green eyes and blue-gray hue, is a Russian Blue. </li>
+	<li> Some people say that the Russian blue is a good pet for people with allergies. Russian Blues do not shed much, and many people think that they’re hypoallergenic. This is not strictly true. But they do produce less glycoprotein Fel d 1 (a protein in saliva and skin that is a known allergen) than most cats. </li>
+	<li> Nyan Cat was inspired by a Russian Blue cat named Marty. </li>
+	<li> In Russian folklore, Russian Blues were considered good luck and healing charms. </li>
+	</ul>
+	<div class="container">
+	<img src= "images/chachi8.jpg" alt="Chachi "/>
+	</div>
+	<h2>For more Information</h2>
+	<p> Here are some great websites to give you more information about russian blue cats!</p>
+		<ol>
+			<li><a href = "https://cattime.com/cat-breeds/russian-blue" title = "cattime russian blue website">Russian Blue cattime</a></li>
+			<li><a href = "https://www.petmd.com/cat/breeds/c_ct_russian_blue" title = "russian blue general information">Petmd</a></li>
+			<li><a href = "https://www.catological.com/facts-russian-blue-cats/" title = "russian blue general information">Catological</a></li>
+		</ol>
+	<p><a href="#top">Back to Top</a></p>	
+	<footer>
+	<p>Created by Darby Tompkins</p>
+	</footer>
+	<script src="About.js"></script>	
+</body>
+</html>	
