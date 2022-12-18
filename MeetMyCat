@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!--
+			JavaScript
+			Personal Passion
+			Darby Tompkins
+			12/4/22
+
+			Filename: MeetMyCat.htm
+		-->	
+	<meta charset="utf-8" />
+   	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  	<meta name="viewport" content="width=page-width, initial-scale=1.0">
+	<title>Russian Blue</title>
+	<link rel="stylesheet" href="Chachi.css" />
+   	<!--[if lt IE 9]>
+      <link rel="stylesheet" href="Chachi.css" />
+   	<![endif]-->
+	<style type = "text/css">
+		/* created by Darby Tompkins
+		All files for this web site links to this style sheet */
+		
+		
+		ul.facts{
+			line-height: 1.4em;
+			list-style-type: none;
+			padding: 0;
+			margin-left: 1em;
+		}
+		ul.facts li{
+		padding-left: 60px;
+		line-height: 2.5em;
+	}
+	
+	
+	</style>
+	
+</head>
+
+<body> 
+	<h1>Meet Me!</h1>
+<header>
+	<nav>
+		<ul>
+		  <li><a href="RussianBlue.htm">Home</a></li>
+		  <li><a href="About.htm">About</a></li>
+		  <li><a href="https://www.chewy.com/g/cat-russian-blue_ga1/">Adopt</a></li>
+		</ul>
+	</nav>
+<header> 
+		<img src= "images/chachi12.jpg" alt="Chachi logo"/>
+		<p>
+			Hi, my name is Cha Chi, pronunciation cha-chee. I am 6 years old; my favorite person is my Human. She rescued me from the snowy winter day one day six years ago. Some of my favorite things are playing fetch, which is so much fun. I also love to lie in the window and watch all the birds and squirrels. I get so excited to see them. Sometimes I even talk to them.
+		</P>
+		
+	<h2>Looks</h2>
+		<img src= "images/chachi9.jpg" alt="Chachi look"/>
+		<p>
+			Their most striking feature is their gorgeous coat. It’s a double coat that is short, plush, and velvety soft. The color of the outer coat is lilac at the base and tipped with silver, giving the Russian Blue a shimmering appearance.
+		</p>
+		<p>
+			The eyes are round and bright emerald green in adult cats. They have a stunning effect set off by the blue of their fur. Kittens will have yellow eyes that darken to green as they grow.
+		</P>
+		
+	<h2>Personality</h2>
+		
+		<video autoplay muted>
+			<source src="chachi5.mp4" type="video/mp4">
+			<source src="movie.ogg" type="video/ogg">
+		Your browser does not support the video tag.
+		</video>
+		
+		<p>
+			Russian Blues are content to entertain themselves if, no one is home during the day. But Russian Blue's will be happy to see you when you arrive home. This cat makes for an excellent companion, constantly following its human around. They do generally prefer one human above all others in the family. 
+		</p>
+		<p>
+			They are talkative (but soft-spoken). Russian Blue humans say; they love to engage in back-and-forth conversations with them. That is one of the reasons why they make for a great company.
+		</p>
+		<p>
+			Russian blue cats are highly intelligent cats. They do require physical and mental stimulation. Their humans say it is important to give them access to toys at all times. They retain a strong hunting instinct, so a feathered fishing pole toy is the perfect plaything. 
+		</P>
+	<p>
+		<a href="#top">Back to Top</a>
+	</p>
+	<footer>
+		<p>Created by Darby Tompkins</p>
+	</footer>
+	
+</body>
+</html>	
