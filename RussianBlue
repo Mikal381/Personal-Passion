@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!--
+			JavaScript 
+			Personal Passion
+			Darby Tompkins
+			12/4/22
+
+			Filename: RussianBlue.htm
+		-->	
+	<meta charset="utf-8" />
+   	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  	<meta name="viewport" content="width=page-width, initial-scale=1.0">
+	<title>Russian Blue</title>
+	<link rel="stylesheet" href="Chachi.css" />
+   	<!--[if lt IE 9]>
+      <link rel="stylesheet" href="Chachi.css" />
+   	<![endif]-->
+	<style type = "text/css">
+		/* created by Darby Tompkins
+		All files for this web site links to this style sheet */
+	
+	ul.facts{
+		line-height: 1.4em;
+		list-style-type: none;
+		padding: 0;
+		margin-left: 1em;
+
+	
+	}
+	ul.facts{
+		padding-left: 60px;
+		line-height: 2.5em;
+	}
+	
+	</style>
+</head>
+ 
+<body>
+	<h1>Russian Blue</h1>
+	
+	<header>
+	<nav>
+		<ul>
+		  <li><a href="MeetMyCat.htm">Meet Me!</a></li>
+		  <li><a href="About.htm">About</a></li>
+		  <li><a href="https://www.chewy.com/g/cat-russian-blue_ga1/">Adopt</a></li>
+		</ul>
+	</nav>
+	</header>
+	
+	<p>
+		<video autoplay muted>
+			<source src="chachi7.mp4" type="video/mp4">
+			<source src="movie.ogg" type="video/.ogg">
+		Your browser does not support the video tag.
+		</video>
+	</p>
+</body>	
+	<footer>
+		<p>Created by Darby Tompkins</p>
+	</footer>
+</html>
+</html>
