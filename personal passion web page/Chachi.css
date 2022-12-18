@@ -1,0 +1,150 @@
+/* created by Darby Tompkins
+	All files for this web site links to this style sheet */
+	/* body */
+body{
+	background-color: grey;
+	color: #d2e816;
+	font-size: 1.1em;
+	font-family: Verdanna, sans-serif;
+	text-align:center;
+	word-wrap: break-word;
+}	
+	main{
+    display:flex;
+}
+footer{
+background-color:light grey;
+margin: 0 0 0 10px;
+padding: 10px;
+text-align:left;
+font-size: .6em;
+font-family: Verdanna, sans-serif;
+	
+}	
+/* heading */
+header{
+padding:10px;
+background-color:light grey;
+}	
+h1{
+	background-color: grey;
+	margin: 0 0 0 10px;
+	padding: 10px;
+	text-align: center;
+	font-size: 1.5em;
+	font-family: Verdanna, sans-serif;
+	word-wrap: break-word;
+}
+	
+h2{
+	background-color: grey;
+	margin: 0 0 0 10px;
+	padding: 10px;
+	text-align:center;
+	font-size: 1.5em;
+	font-family: Verdanna, sans-serif;
+	text-decoration:underline;
+	word-wrap: break-word;
+}
+li{
+	font-size: 1.5em;
+	font-family: Verdanna, sans-serif;	
+	word-wrap: break-word;
+	text-align:left;
+}
+ul{
+	font-size: .8em;
+	font-family: Verdanna, sans-serif;
+	word-wrap: break-word;
+	
+}
+p{	
+	font-size: 1.2em;
+	font-family: Verdanna, sans-serif;
+	word-wrap: break-word;
+	text-align:left;
+}
+
+img{
+	float: center;
+	margin: 0 10px 10px 0;
+}
+img.right{
+	border: double thick black;
+	float: center;
+	margin: 10px 0 10px 10px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: #d2e816;
+}
+
+/* links */
+a;link{
+	color: #d2e816;
+	text-decoration: none;
+}
+a:hover{
+	color: #d2e816;
+	background-color: grey;
+	text-decoration: underline;
+}
+a:visited{
+	color: #d2e816;
+}
+nav li{
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		display: inline;
+		list-style: none;
+		position: relative;
+		margin: auto;
+		width: 10%;
+		padding: 10px;
+		text-align:center;
+}
+ol{
+	text-align:left;
+	font-size: .7em;
+	font-family: Verdanna, sans-serif;	
+	word-wrap: break-word;
+	text-align:left;	
+}
+
+/*video*/
+video {
+  width: 100vw;
+  height: 100vh;
+  object-fit:contain;
+  position: center;
+  top: 20;
+}
+div{
+	text-align:left;
+	font-size: .8em;
+	font-family: Verdanna, sans-serif;	
+	
+	text-align: center;
+}	
+table{
+	border-collapse: collapse;
+	border: 5px solid white;
+	letter-spacing: .5px;
+	font-size: .9rem;
+	font-family: Verdanna, sans-serif;	
+	size:width="780" height="460";
+	 
+}
+td, th {
+	border: 5px solid #3A3B3C;
+	padding: 10px 20px;
+	background-color:grey;
+	color: #d2e816;
+}
+
+
+td {
+	text-align: center;
+}	
